@@ -51,7 +51,7 @@ body {
 
 .btn {
     background-color: lightslategray;
-    border: none;
+    border: 2px solid black;
     box-shadow: 4px 4px black;
     color: aquamarine;
     font-size: 20px;
